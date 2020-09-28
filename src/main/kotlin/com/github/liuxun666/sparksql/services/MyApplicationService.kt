@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.liuxun666.sparksql.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.liuxun666.sparksql.MyBundle
 
 class MyApplicationService {
 
